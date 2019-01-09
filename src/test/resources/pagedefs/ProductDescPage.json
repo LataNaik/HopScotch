@@ -1,0 +1,32 @@
+{
+	"btnSelectSize": {
+		"ANDROID": "id=bottomButton",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	},
+	"rdo6To12Months": {
+		"ANDROID": "id=sizePickerItemRadio",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	},
+	"btnAddToCart": {
+		"ANDROID": "id=bottomButton",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	},
+	"btnQuantity": {
+		"ANDROID": "id=qtySwitch",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	},
+	"lblSimilarProduct": {
+		"ANDROID": "id=productRecommendationsProductsTitle",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	}
+}

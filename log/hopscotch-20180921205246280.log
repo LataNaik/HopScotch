@@ -1,0 +1,5 @@
+[INFO ] [Thread:main] 2018-09-21 20:52:46,362 tests.SupportTest.runOncePerSuite:L38 - Central setup completed.
+[INFO ] [Thread:main] 2018-09-21 20:52:46,373 tests.SupportTest.runOncePerContext:L43 - Test context setup started for Hopscotch test.
+[DEBUG] [Thread:main] 2018-09-21 20:52:46,375 central.AppachhiCentral.registerContext:L69 - Loading Test Data File at Path :: D:\Hopscotch\target\test-classes\data/null/testdata.ini
+[INFO ] [Thread:main] 2018-09-21 20:52:46,398 tests.SupportTest.runOncePerMethod:L57 - Set up for test method [HS_15] started.
+[INFO ] [Thread:main] 2018-09-21 20:52:46,404 tests.SupportTest.tearDown:L71 - Tear down for test method [HS_15] started.

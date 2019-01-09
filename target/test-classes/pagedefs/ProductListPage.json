@@ -1,0 +1,20 @@
+{
+	"imgProductLink": {
+		"ANDROID": "id=product_image",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	},
+	"txtLastProduct": {
+		"ANDROID": "xpath=//android.widget.TextView[@text='Cute Pink Hi Printed Sleeveless Vest']",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	},
+	"txtAileRabbit": {
+		"ANDROID": "xpath=//android.widget.TextView[@text='Aile Rabbit - Girl']",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	}
+}

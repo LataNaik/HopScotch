@@ -1,0 +1,78 @@
+{	
+	"clkcontinue": {
+	"ANDROID": "xpath=(//*[@resource-id='com.dineout.book:id/left_tvs_wrapper'])",
+	"IOS": "locator=value",
+	"MWEB": "locator=value",
+	"DESKTOP_WEB": "locator=value"
+	},
+	"cllautodetect": {
+	"ANDROID": "xpath=(//*[@resource-id='com.dineout.book:id/left_tvs_wrapper'])",
+	"IOS": "locator=value",
+	"MWEB": "locator=value",
+	"DESKTOP_WEB": "locator=value"
+	},
+	"clkloginimg": {
+	"ANDROID": "id=image_view_profile",
+	"IOS": "locator=value",
+	"MWEB": "locator=value",
+	"DESKTOP_WEB": "locator=value"
+	},
+	"nearme": {
+	"ANDROID": "id=feature_iv",
+	"IOS": "locator=value",
+	"MWEB": "locator=value",
+	"DESKTOP_WEB": "locator=value"
+	},
+	"search": {
+	"ANDROID": "id=feature_iv",
+	"IOS": "locator=value",
+	"MWEB": "locator=value",
+	"DESKTOP_WEB": "locator=value"
+	},
+	"clksign": {
+	"ANDROID": "id=feature_iv",
+	"IOS": "locator=value",
+	"MWEB": "locator=value",
+	"DESKTOP_WEB": "locator=value"
+	},
+	"loginbtn": {
+	"ANDROID": "id=login_btn",
+	"IOS": "locator=value",
+	"MWEB": "locator=value",
+	"DESKTOP_WEB": "locator=value"
+	},
+	"srch": {
+	"ANDROID": "id=email_edtxt",
+	"IOS": "locator=value",
+	"MWEB": "locator=value",
+	"DESKTOP_WEB": "locator=value"
+	},
+	"cntinue": {
+	"ANDROID": "id=continue_btn",
+	"IOS": "locator=value",
+	"MWEB": "locator=value",
+	"DESKTOP_WEB": "locator=value"
+	},
+	"srchp": {
+	"ANDROID": "id=code_edtxt",
+	"IOS": "locator=value",
+	"MWEB": "locator=value",
+	"DESKTOP_WEB": "locator=value"
+	},
+	"login": {
+	"ANDROID": "id=login_btn",
+	"IOS": "locator=value",
+	"MWEB": "locator=value",
+	"DESKTOP_WEB": "locator=value"
+	},
+
+
+	"Account": {
+		"ANDROID": "id=bottom_navigation_container",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	}
+
+	
+}

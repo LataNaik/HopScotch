@@ -1,0 +1,69 @@
+{
+	"icoAccount": {
+		"ANDROID": "xpath=//android.widget.TextView[@text='Account']",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	},
+	"icoSearch": {
+		"ANDROID": "xpath=//android.widget.TextView[@text='Search']",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	},
+	"imgBoutique": {
+		"ANDROID": "id=collectionImage",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	},
+	"icnGender": {
+		"ANDROID": "id=itcGenderContainer",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	},
+	"btnAge": {
+		"ANDROID": "id=itcAgeGroupName",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	},
+	"txtCoachMask": {
+		"ANDROID": "id=coachMarksTextView",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	},
+	"txtAileRabbit": {
+		"ANDROID": "xpath=//android.widget.TextView[@text='Aile Rabbit - Girl']",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	},
+	"txtSearchHopscotch": {
+		"ANDROID": "xpath=//android.widget.TextView[@text='Search Hopscotch']",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	},
+	"txtEditSearchHopscotch": {
+		"ANDROID": "xpath=//android.widget.EditText[@text='Search Hopscotch']",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	},
+	"imgMidProduct": {
+		"ANDROID": "xpath=//android.widget.TextView[@text='Peach Multilayer Dress']",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	},
+	"txtSearchResult": {
+		"ANDROID": "xpath=//android.widget.TextView[@text='Dresses in Apparel - Children']",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	}
+}
+

@@ -1,0 +1,7 @@
+tests\pages\FullPage.class
+tests\pages\ProductDescPage.class
+tests\pages\ProductListPage.class
+tests\ScriptFlows.class
+tests\pages\AccountPage.class
+tests\SupportTest.class
+tests\pages\HomePage.class

@@ -1,0 +1,63 @@
+{
+	"lnkJoinUs": {
+		"ANDROID": "id=sign_out_text",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	},
+	"txtFullName": {
+		"ANDROID": "xpath=//android.widget.TextView[@text='Full name']",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	},
+	"txtEditFullName": {
+		"ANDROID": "xpath=//android.widget.EditText[@index='2']",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	},
+	"txtEmailAddress": {
+		"ANDROID": "xpath=//android.widget.TextView[@text='Email address']",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	},
+	"txtEditEmailAddress": {
+		"ANDROID": "xpath=//android.widget.EditText[@index='2']",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	},
+	"txtMobileNumber": {
+		"ANDROID": "xpath=//android.widget.TextView[@text='Mobile number']",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	},
+	"txtEditMobileNumber": {
+		"ANDROID": "xpath=//android.widget.EditText[@index='2']",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	},
+	"btnSendOTP": {
+		"ANDROID": "xpath=//android.widget.TextView[@text='SEND OTP']",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	},
+	"txtEnterOTP": {
+		"ANDROID": "xpath=//android.widget.TextView[@text='○']",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	},
+	"btnProfileDetails": {
+		"ANDROID": "xpath=//android.widget.TextView[@text='Profile Details']",
+		"IOS": "locator=value",
+		"MWEB": "locator=value",
+		"DESKTOP_WEB": "locator=value"
+	}
+
+}
